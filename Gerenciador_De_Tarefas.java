@@ -20,14 +20,6 @@ import java.util.ArrayList;
 import java.awt.SystemColor;
 
 
-/*ENUNCIADO:
-O programa tem como função a criação de uma lista de tarefas usando checkboxes, que interagem com a barra de progresso calculando o numero de tarefas selecionadas pelo numero total de tarefas criadas.
-
-PS:
-O usuário digita o texto no campo e clica em "+", ele deve digitar textos menores que 12 caracteres e não pode ser uma String vazia. Senão o sistema não irá permitir a criação da nova checkbox e emitirá uma mensagem de erro.
-Após ele criar uma tarefa, ela é adicionada ao Painel em forma de checkbox. O painel está organizado em 2 colunas, a proxima tarefa será inserida na segunda coluna. 
-Se a ultima tarefa está na segunda coluna, a proxima tarefa será inserida na linha abaixo na primeira coluna. O usuário tem o limite máximo de 10 tarefas.
-*/
 public class ItemC {
 
     public JFrame frame;
