@@ -1,6 +1,6 @@
-# Diretório de Scripts Diários
+# Diretório de Programas
 
-Este diretório contém scripts independentes que foram desenvolvidos para uso no dia a dia. Cada script é uma entidade separada e pode ser utilizado de maneira independente.
+Este diretório contém scripts independentes que foram desenvolvidos para uso acadêmico.
 
 ## Descrição dos Scripts
 
