@@ -16,3 +16,6 @@ Se a última tarefa está localizada na segunda coluna, a próxima tarefa será 
 
 O programa tem como função a entrada de um número e duas opções de operação, sendo Perfeito para a validação da soma de seus divisores e se resultam no próprio número, e DSU ou Dezena Soma Unidade, que consiste na transformação de um número de 2 algarismos em outro numero, concatenando: Dezena + Soma (unidade e dezena) + Unidade.
 Possuindo algumas exigências, como a entrada de um numero inteiro e positivo, numero máximo de algarismos, e não permitindo valores nulos antes de executar. 
+
+#Senha
+Gerador de tokens baseados na entrada do usuário (senha). Possui 4 requisitos; senhas com pelo menos 8 caracteres, ao menos um numero, um caractere especial, e uma letra maiuscula, após a validação, converte cada caractere da senha em seu valor ASCII + proximo caractere da tabela, exemplo: "M" -> "109N" formando um token.
