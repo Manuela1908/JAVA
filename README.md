@@ -19,4 +19,4 @@ Possuindo algumas exigências, como a entrada de um numero inteiro e positivo, n
 
 #Senha
 
-Gerador de tokens baseados na entrada do usuário (senha). Possui 4 requisitos; senhas com pelo menos 8 caracteres, ao menos um numero, um caractere especial, e uma letra maiuscula, após a validação, converte cada caractere da senha em seu valor ASCII + proximo caractere da tabela, exemplo: "M" -> "109N" formando um token.
+Gerador de tokens baseados na entrada do usuário (senha). Possui 4 requisitos; senhas com pelo menos 8 caracteres, ao menos um numero, um caractere especial, e uma letra maiuscula, após a validação, converte cada caractere da senha em seu valor ASCII + proximo caractere da tabela, exemplo: "M" -> "109N", este processo se repete concatenando os valores gerados até que não haja mais caracteres para serem convertidos
